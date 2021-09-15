@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jasonmanda
-- 👀 I’m interested in C#
+- 👀 I’m interested in C#, SQL, Java, Js
 - 🌱 I’m currently learning Data analysis
 - 💞️ I’m looking to collaborate on PHP,C#,Java
 - 📫 How to reach me ... 
